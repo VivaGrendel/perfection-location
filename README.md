@@ -22,3 +22,7 @@ npm i webpack-dev-server --save-dev
 npm install @material-ui/core
 npm install typeface-roboto --save
 ```
+
+### Resources
+
+* https://www.klaasnotfound.com/2016/11/06/making-google-maps-work-with-react/
